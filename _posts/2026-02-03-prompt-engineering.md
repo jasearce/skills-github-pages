@@ -1,5 +1,5 @@
 ---
-title: "Prompt Engineering
+title: "Prompt Engineering"
 date: 2026-02-03
 ---
 
